@@ -1,0 +1,9 @@
+26/11/2024 11:03:06.805: PM [restartedMain] INFO  in.api.Application -- Starting Application using Java 17.0.3 with PID 24084 (C:\Users\siddhesh.kamale\eclipse-ide-JEE\55-Logging-App\target\classes started by siddhesh.kamale in C:\Users\siddhesh.kamale\eclipse-ide-JEE\55-Logging-App)
+26/11/2024 11:03:06.806: PM [restartedMain] DEBUG in.api.Application -- Running with Spring Boot v3.4.0, Spring v6.2.0
+26/11/2024 11:03:06.807: PM [restartedMain] INFO  in.api.Application -- No active profile set, falling back to 1 default profile: "default"
+26/11/2024 11:03:07.182: PM [restartedMain] INFO  in.api.Application -- Started Application in 0.429 seconds (process running for 96.055)
+26/11/2024 11:03:14.713: PM [http-nio-8080-exec-2] INFO  in.api.controllers.HomeController -- This is info api calling : sid
+26/11/2024 11:03:14.715: PM [http-nio-8080-exec-2] DEBUG in.api.controllers.HomeController -- This is debug api calling : sid
+26/11/2024 11:03:14.715: PM [http-nio-8080-exec-2] ERROR in.api.controllers.HomeController -- This is error api calling : sid
+26/11/2024 11:03:14.715: PM [http-nio-8080-exec-2] WARN  in.api.controllers.HomeController -- This is warn api calling : sid
+26/11/2024 11:03:14.716: PM [http-nio-8080-exec-2] TRACE in.api.controllers.HomeController -- This is trace api calling : sid
